@@ -1,2 +1,4 @@
 two first line
 in file.
+Another two lines 
+in our song.
